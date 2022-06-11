@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9aba04c (user register 1)
 # Intern Task
 
 
@@ -19,6 +22,7 @@ Back-end optional: File, Mongodb, Firebase …
 Front-end optional: React, Codesandbox …  
 Гэхдээ тестлэх боломжтой байна.
 
+<<<<<<< HEAD
 
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -66,3 +70,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 >>>>>>> 45e6fc2 (Initial commit from Create React App)
+=======
+>>>>>>> 9aba04c (user register 1)
